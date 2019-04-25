@@ -23,8 +23,5 @@
         <record model="salon.holiday" id="salon_holiday_07">
             <field name="name">Saturday</field>
         </record>
-        <record model="salon.holiday" id="salon_holiday_08">
-            <field name="name">Fall</field>
-        </record
     </data>
 </odoo>
